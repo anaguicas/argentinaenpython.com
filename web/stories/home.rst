@@ -19,10 +19,12 @@
    </style>
 
 
-..
-   .. class:: alert alert-success
+.. class:: alert alert-success
 
-      **NOVEDADES**: ¡Atención Colombia, el Sábado 1 de Julio :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`
+  ¡El equipo `Argentina en Python </>`_  estará participando de tres eventos en diferentes paises!
+    * Japón: Manuel será el Opening Keynote de la `PyCon Japón <https://pycon.jp/2018/>`_ , el 17 de Septiembre en Tokio
+    * España: Manuel estará participando de la `PyCon España <https://2018.es.pycon.org/>`_, del 5 al 7 de Octubre en Malaga
+    * Argentina: Johanna estará en la organización del Django Girls `PyCon Argentina <https://pycon.python.org.ar>`_, el 22 de Noviembre en Buenos Aires
 
 
 .. image:: /index/logo.thumbnail.png
@@ -145,24 +147,8 @@ formas de vida.
 
    <hr style="border-width: 10px 0 0;">
 
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-barranquilla/
-   :src: IMG_2834.JPG
-   :title: Django Girls Barranquilla
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-medellin/
-   :src: IMG_2243.JPG
-   :title: Django Girls Medellín
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-bucaramanga/
-   :src: IMG_1603.JPG
-   :title: Django Girls Bucaramanga
-   :description: Workshop Django Girls
+   
+.. include:: stories/home.galleries.rst
 
 .. class:: lead align-center
 

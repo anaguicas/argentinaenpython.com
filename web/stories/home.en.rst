@@ -143,23 +143,7 @@ How?
    <hr style="border-width: 10px 0 0;">
 
 
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-barranquilla/
-   :src: IMG_2834.JPG
-   :title: Django Girls Barranquilla
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-medellin/
-   :src: IMG_2243.JPG
-   :title: Django Girls Medellín
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-bucaramanga/
-   :src: IMG_1603.JPG
-   :title: Django Girls Bucaramanga
-   :description: Workshop Django Girls
+.. include:: stories/home.galleries.rst
 
 .. class:: lead align-center
 

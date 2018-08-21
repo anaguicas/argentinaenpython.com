@@ -248,7 +248,6 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: Gonzalo Peña-Castellanos
    :image: guia-gonzalo.png
-   :place: Bucaramanga
    :community: Python Bucaramanga
    :web: https://linkedin.com/in/goanpeca
    :github: https://github.com/goanpeca
@@ -256,8 +255,36 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/goanpec
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nnhombre.png
+   :name: Juan David Hernandez
+   :place: Medellín
+   :web: https://medium.com/@JuanDHernandezG
+   :community: Python Medellín
+   :twitter: https://twitter.com/JuanDHernandezG
+   :github: https://github.com/davoshack
+   :image: guia-juandavid.png
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Carlos Mario Herrera
+   :place: Cartagena
+   :github: https://github.com/cmarioherrera
+   :twitter: https://twitter.com/cmario_herrera
+   :community: Centro de investigación hidrográfico y oceanográfico
+   :image: guia-carlosmario.png
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Carlos Arturo Pimentel
+   :place: Bucaramanga
+   :github: https://github.com/carlosp81
+   :image: guia-carlosarturo.png
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Dario Guzman
+   :place: Barranquilla
+   :github: https://github.com/gudarjs
+   :twitter: https://twitter.com/gudarjs
+   :community: Python Barranquilla
+   :web: http://pybaq.co
+   :image: guia-dario.png
 
 .. raw:: html
 

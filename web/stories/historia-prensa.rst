@@ -7,8 +7,88 @@
 .. description: Notas en donde el proyecto Argentina en Python ha sido mencionado.
 .. type: text
 
-Estas son algunas de las notas en donde el proyecto ha sido publicado
-de alguna manera:
+Estas son algunas de las notas en donde el proyecto ha sido publicado,
+mencionado o ha estado involucrado de alguna manera:
+
+
+Año 2018
+--------
+
+.. raw:: html
+
+   <div class="row">
+
+.. template:: prensa-image
+   :title: PyCon Japón
+   :description: PyCon JP 2018: About the keynote speaker on the first day
+   :src: 2018_agosto_0-340x255.png
+   :href: https://pyconjp.blogspot.com/2018/08/day1-about-keynote-speaker.html
+
+
+.. template:: prensa-image
+   :title: Ahora TV
+   :description: Argentina en Python, el proyecto de un paranaense para difundir el conocimiento
+   :src: 2018_mayo_3-340x255.png
+   :href: https://ahora.com.ar/argentina-python-el-proyecto-un-paranaense-difundir-el-conocimiento-n4153851
+
+.. template:: prensa-image
+   :title: Blog Santos Gallegos
+   :description: De guía en Django Girls a pasante en Read the Docs
+   :src: 2018_mayo_2-340x255.png
+   :href: https://stsewd.github.io/es/posts/historia-django-girls-rtd/
+
+.. template:: prensa-image
+   :title: El Intra
+   :description: Capacitación de Python para programadores en Salta
+   :src: 2018_mayo_1-340x255.png
+   :href: https://www.elintra.com.ar/sociedad/2018/5/30/se-realizo-una-capacitacion-de-python-para-programadores-en-salta-122959.html
+
+.. template:: prensa-image
+   :title: El Morrocotudo
+   :description: Informática popular: Software libre para todos y con presencia del robot Biri-Biri 
+   :src: 2018_mayo_0-340x255.png
+   :href: http://www.elmorrocotudo.cl/noticia/tecnologia/informatica-popular-software-libre-para-todos-y-con-presencia-del-robot-biri-biri
+
+.. template:: prensa-image
+   :title: Blog PyCon Colombia
+   :description: PyCon Colombia 2018 - The Art of Coding
+   :src: 2018_abril_0-340x255.png
+   :href: https://medium.com/@pyconcolombia/pycon-colombia-2018-864c8dd05283
+
+.. template:: prensa-image
+   :title: Web Universidad Politécnica Salesiana
+   :description: Django Girls: empoderamiento de la mujer en la tecnología
+   :src: 2018_abril_1-340x255.png
+   :href: https://www.ups.edu.ec/noticias?articleId=11461968&version=1.0
+
+.. template:: prensa-image
+   :title: Blog Django Girls Colombia
+   :description: Mi experiencia en PyCon Colombia 2018
+   :src: 2018_marzo_0-340x255.jpg
+   :href: https://medium.com/@djangogirlscolombia/mi-experiencia-en-pycon-colombia-2018-41d10ecabe99
+
+.. template:: prensa-image
+   :title: Pulso Social
+   :description: Llega a Medellín el Taller de Programación para Mujeres Django Girls PyCon Colombia 2018
+   :src: 2018_enero_0-340x255.jpg
+   :href: https://pulsosocial.com/2018/01/29/llega-medellin-taller-programacion-mujeres-django-girls-pycon-colombia-2018/
+
+.. template:: prensa-image
+   :title: Pythonízame
+   :description: Entrevista al organizador principal PyConColombia 2018
+   :src: 2018_enero_1-340x255.png
+   :href: https://www.pythoniza.me/pycon-colombia-2018/
+
+.. template:: prensa-image
+   :title: PSF "fellow"
+   :description: Modus Laborandi
+   :src: 2018_enero_0-340x255.png
+   :href: https://moduslaborandi.net/post/psf-fellow/
+
+.. raw:: html
+
+   </div>
+
 
 Año 2017
 --------
@@ -17,6 +97,30 @@ Año 2017
 
    <div class="row">
 
+
+.. template:: prensa-image
+   :title: Blog Django Girls Colombia 
+   :description: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
+   :src: 2017_diciembre_2-340x255.jpg
+   :href: https://medium.com/@djangogirlscolombia/django-girls-medell%C3%ADn-c%C3%B3mo-fue-mi-experiencia-organizando-el-django-girls-2017-1e5629dc02a4
+
+.. template:: prensa-image
+   :title: Blog Python Software Foundation
+   :description: Python Software Foundation Fellow Members for Q4 2017
+   :src: 2017_diciembre_1-340x255.png
+   :href: https://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html
+
+.. template:: prensa-image
+   :title: PSF Membership Roster
+   :description: Manuel Kaufmann declarado como miembro de honor de la PSF
+   :src: 2017_diciembre_0-340x255.png
+   :href: https://www.python.org/psf/members/
+
+.. template:: prensa-image
+   :title: Blog Django Girls Colombia 
+   :description: ¿Cómo fue organizar Django Girls Cartagena? post por Ana Elles Manzur
+   :src: 2017_noviembre_0-340x255.png
+   :href: https://medium.com/django-girls-colombia/django-girls-cartagena-c%C3%B3mo-fue-organizar-django-girls-cartagena-ca9457d514f4
 
 .. template:: prensa-image
    :title: Keynote Speaker PyCon Brasil 2017
@@ -32,17 +136,30 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: ¿Cómo fue organizar el primer Django Girls Barranquilla?
-   :description: Blog post por Javier Daza
+   :title: Memorias de un Sysadmin
+   :description: Django Girls en Mendoza: Mi primer taller 
+   :src: 2017_agosto_1-340x255.png
+   :href: http://memoriasdeunsysadmin.info/mi-primer-django-girls/
+
+.. template:: prensa-image
+   :title: Blog Python Barranquilla 
+   :description: ¿Cómo fue organizar el primer Django Girls Barranquilla? post por Javier Daza
    :src: 2017_agosto_0-340x255.png
    :href: http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/
 
 
 .. template:: prensa-image
-   :title: El Heraldo
-   :description: Programación web para mujeres en Barranquilla
-   :src: 2017_mayo_0-340x255.png
-   :href: https://www.elheraldo.co/entretenimiento/programacion-web-para-mujeres-en-barranquilla-366549
+   :title: Django Girls: cuando la programación es cosa de mujeres
+   :description: Entrevista a Florencia Rosas de Mendoza, Argentina
+   :src: 2017_junio_0-340x255.png
+   :href: http://www.mdzol.com/nota/740702/
+
+
+.. template:: prensa-image
+   :title: Blog PyCon Colombia 
+   :description: Pasando del sueño a la Realidad - PyCon Colombia 2017
+   :src: 2017_mayo_2-340x255.png
+   :href: https://medium.com/pycon-colombia-2017/pycon-colombia-2017-pasando-del-sue%C3%B1o-a-la-realidad-cf1f7808447e
 
 
 .. template:: prensa-image
@@ -50,6 +167,13 @@ Año 2017
    :description: Entrevista a Juan David Hernandez, co-organizador de Django Girls Medellín
    :src: 2017_mayo_1-340x255.png
    :href: https://www.youtube.com/watch?v=mJymMFA5A9I&feature=youtu.be
+
+
+.. template:: prensa-image
+   :title: El Heraldo
+   :description: Programación web para mujeres en Barranquilla
+   :src: 2017_mayo_0-340x255.png
+   :href: https://www.elheraldo.co/entretenimiento/programacion-web-para-mujeres-en-barranquilla-366549
 
 
 .. template:: prensa-image
@@ -71,6 +195,13 @@ Año 2016
 .. raw:: html
 
    <div class="row">
+
+
+.. template:: prensa-image
+   :title: PyCon Argentina 2016
+   :description: Taniquetil
+   :src: 2016_diciembre_0-340x255.png
+   :href: http://www.taniquetil.com.ar/plog/post/1/721
 
 
 .. template:: prensa-image
@@ -277,6 +408,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Django Girls Mendoza Experience
+   :description: Blog post por Cynthia Monastirsky
+   :src: 2016_enero_8-340x255.png
+   :href: http://linuxchixar.org/charlas/django-girls-mendoza-experience
+
+
+.. template:: prensa-image
    :title: Multicolor Atoms
    :description: Un día programando en Django con Argentina en Python
    :src: 2016_enero_7-340x255.png
@@ -348,10 +486,24 @@ Año 2015
 
 
 .. template:: prensa-image
+   :title: Review of PyConAr 2015
+   :description: Carousel Apps
+   :src: 2015_diciembre_1-340x255.png
+   :href: https://carouselapps.com/2015/12/08/pyconar-2015/
+
+
+.. template:: prensa-image
    :title: devAcademy
    :description: Python en Argentina #devHangout 127 con @argenpython
    :src: 2015_diciembre_0-340x255.png
    :href: https://www.youtube.com/watch?v=BxyidumbvHA
+
+
+.. template:: prensa-image
+   :title: Python Software Foundation
+   :description: First-Ever PyCaribbean Coming This February!
+   :src: 2015_noviembre_5-340x255.png
+   :href: https://pyfound.blogspot.com/2015/11/first-ever-pycaribbean-coming-this.html
 
 
 .. template:: prensa-image
@@ -436,6 +588,13 @@ Año 2015
    :description: Con esfuerzo y contactando con la gente apropiada no hay nada que no se pueda lograr
    :src: 2015_septiembre_0-340x255.png
    :href: http://pillku.org/article/con-esfuerzo-y-contactando-con-la-gente-apropiada-/
+
+
+.. template:: prensa-image
+   :title: Ciberactivismo con perspectiva de género
+   :description: Blog post escrito por Daniel Cotillas Ruiz
+   :src: 2015_agosto_7-340x255.png
+   :href: https://nodocomun.org/procesos/ciberactivismo-con-perspectiva-de-genero/
 
 
 .. template:: prensa-image
@@ -580,6 +739,13 @@ Año 2015
 
 
 .. template:: prensa-image
+   :title: PyDay Asunción
+   :description: Evento PyDay
+   :src: 2015_marzo_4-340x255.png
+   :href: http://pyday.pythonpy.org/
+
+
+.. template:: prensa-image
    :title: Escuelas Libres
    :description: Llamado a la presentación de trabajos #PyDayApostoles
    :src: 2015_marzo_3-340x255.png
@@ -606,7 +772,6 @@ Año 2015
    :src: 2015_marzo_0-340x255.png
    :href: http://pyfound.blogspot.com.ar/2015/03/manuel-kaufmann-and-python-in-argentina.html
 
-
 .. raw:: html
 
    </div>
@@ -627,6 +792,12 @@ Año 2014
    :src: 2014_diciembre_0-340x255.png
    :href: http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html
 
+
+.. template:: prensa-image
+   :title: Argentina En Python: Como destruir el sueño de todo programador en 2 minutos
+   :description: Charla en PyConAr 2014
+   :src: 2014_noviembre_3-340x255.png
+   :href: https://www.youtube.com/watch?v=eNQ9O_3ySs8
 
 .. template:: prensa-image
    :title: Conectar Igualdad
